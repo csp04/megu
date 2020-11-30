@@ -2,6 +2,8 @@
 
 A simple to-do list app created in Flutter.
 
+![](https://github.com/csp04/megu/blob/main/screenshots/todo-list-app.gif)
+
 #### Dependencies
 ```yaml
   cupertino_icons: ^1.0.0
